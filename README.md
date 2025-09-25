@@ -1,5 +1,5 @@
-<h1 align="center">Mr FRANKLINE RAPHAEL</h1>
-<h3 align="center">An innovative full stack developer</h3>
+<h1 align="center text-3xl text-bold">Mr FRANKLINE RAPHAEL</h1>
+<h3 align="center text-bold text-2xl">Fullstack developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franklineraphael" alt="franklineraphael" /></a> </p>
 
